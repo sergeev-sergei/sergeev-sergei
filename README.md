@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sergei
 
-<!--
-**sergeev-sergei/sergeev-sergei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Engineer with over 10 years of experience in energy and industrial infrastructure.
+Currently focusing on the modelling and optimisation of hybrid renewable energy systems using Python and open-source tools.
+As part of my professional development, I work on data processing, system modelling, optimisation, and performance analysis of integrated energy systems combining solar, wind, electrolysis, storage, and energy conversion technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Skills & Tools
+
+- Programming & Data Analysis: Python, NumPy, Pandas, SciPy, Jupyter Notebook  
+- Energy System Modelling: PyPSA, oemof, Pyomo  
+- Data Visualisation: Matplotlib, Plotly  
+- Open Data Sources: Meteostat, ERA5, OpenWeatherMap, PVGIS  
+- Version Control: Git, GitHub
+
+---
+
+## Contact
+
+sergei.sergeev.at@gmail.com
+
+---
+
+Thank you for visiting my profile. I welcome opportunities for collaboration and knowledge sharing in the field of sustainable energy.
